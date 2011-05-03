@@ -1,0 +1,10 @@
+name = CollaborativeForms
+description = A Drupal installation profile for collaborative data collection.
+
+dependencies[] = collaborativeforms_core
+dependencies[] = collaborativeforms_dashboard
+dependencies[] = collaborativeforms_export
+dependencies[] = collaborativeforms_forms
+dependencies[] = collaborativeforms_groups
+dependencies[] = collaborativeforms_help
+dependencies[] = collaborativeforms_users
